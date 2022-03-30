@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: example-azure-function-prma-001
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A71353E2E8824738A463D90E7176948B }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_610FE6D4E7194B9595AEC2590B611DEF }}
 
